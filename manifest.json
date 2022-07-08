@@ -1,0 +1,14 @@
+{
+  "datatypes": {
+    "industry": {
+      "template": "templates/industry.json"
+    },
+    "organisation": {
+      "template": "templates/organisation.json"
+    },
+    "type": {
+      "template": "templates/type.json"
+    }
+  },
+  "system-template": "templates/system.json"
+}
