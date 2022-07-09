@@ -1,5 +1,8 @@
 {
   "datatypes": {
+    "country": {
+      "template": "templates/country.json"
+    },
     "industry": {
       "template": "templates/industry.json"
     },
