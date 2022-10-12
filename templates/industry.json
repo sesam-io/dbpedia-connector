@@ -1,6 +1,6 @@
 
 {
-  "_id": "{{@ system @}}-industry",
+  "_id": "{{@ system @}}-industry-collect",
   "type": "pipe",
   "source": {
     "type": "sparql",
@@ -12,5 +12,10 @@
   },
   "pump": {
     "cron_expression": "0 0 * * ?"
+  },
+  "add_namespaces": true,
+  "namespaces": {
+    "identity": "{{@ system @}}}-industry",
+    "property": "{{@ system @}}}-industry"
   }
 }
