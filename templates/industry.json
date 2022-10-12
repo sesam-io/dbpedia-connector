@@ -11,6 +11,6 @@
     "url": "sparql"
   },
   "pump": {
-    "schedule_interval": 5
+    "cron_expression": "0 0 * * ?"
   }
 }

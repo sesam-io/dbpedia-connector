@@ -10,7 +10,7 @@
     "url": "sparql"
   },
   "pump": {
-    "cron_expression": "0 0 ? * SUN"
+    "cron_expression": "0 0 * * ?"
   }
 }
 
