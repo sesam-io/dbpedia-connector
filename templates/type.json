@@ -1,5 +1,5 @@
 {
-  "_id": "{{@ system @}}-type",
+  "_id": "{{@ system @}}-type-collect",
   "type": "pipe",
   "source": {
     "type": "sparql",
@@ -11,5 +11,10 @@
   },
   "pump": {
     "cron_expression": "0 0 * * ?"
+  },
+  "add_namespaces": true,
+  "namespaces": {
+    "identity": "{{@ system @}}}-type",
+    "property": "{{@ system @}}}-type"
   }
 }
