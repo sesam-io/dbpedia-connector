@@ -11,7 +11,7 @@
     "url": "sparql"
   },
   "pump": {
-    "schedule_interval": 1
+    "cron_expression": "0 0 * * ?"
   },
   "add_namespaces": true,
   "namespaces": {
