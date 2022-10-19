@@ -14,7 +14,7 @@
   },
   "add_namespaces": true,
   "namespaces": {
-    "identity": "{{@ system @}}}-type",
-    "property": "{{@ system @}}}-type"
+    "identity": "{{@ system @}}-type",
+    "property": "{{@ system @}}-type"
   }
 }
