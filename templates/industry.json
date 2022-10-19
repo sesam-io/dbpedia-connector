@@ -15,7 +15,7 @@
   },
   "add_namespaces": true,
   "namespaces": {
-    "identity": "{{@ system @}}}-industry",
-    "property": "{{@ system @}}}-industry"
+    "identity": "{{@ system @}}-industry",
+    "property": "{{@ system @}}-industry"
   }
 }
