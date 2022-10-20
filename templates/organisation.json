@@ -12,9 +12,5 @@
   "pump": {
     "schedule_interval": 1
   },
-  "add_namespaces": true,
-  "namespaces": {
-    "identity": "{{@ system @}}-organisation",
-    "property": "{{@ system @}}-organisation"
-  }
+  "add_namespaces": false
 }

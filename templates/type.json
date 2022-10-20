@@ -12,9 +12,5 @@
   "pump": {
     "cron_expression": "0 0 * * ?"
   },
-  "add_namespaces": true,
-  "namespaces": {
-    "identity": "{{@ system @}}-type",
-    "property": "{{@ system @}}-type"
-  }
+  "add_namespaces": false
 }
